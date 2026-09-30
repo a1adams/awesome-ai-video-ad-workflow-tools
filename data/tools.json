@@ -1,0 +1,229 @@
+{
+  "keyword": "ai video ad workflow",
+  "title": "AI video ad workflow tools: generation, presenters and production",
+  "lastChecked": "2026-09-30",
+  "capabilityChecks": [
+    {
+      "key": "videoTools",
+      "label": "Video tools"
+    },
+    {
+      "key": "restApi",
+      "label": "REST API"
+    },
+    {
+      "key": "visualGraph",
+      "label": "Visual graph"
+    },
+    {
+      "key": "avatarVideo",
+      "label": "Avatar video"
+    }
+  ],
+  "tools": [
+    {
+      "n": 1,
+      "name": "Wireflow",
+      "tagline": null,
+      "homepage": "https://www.wireflow.ai/features/ai-video-workflow",
+      "docs": "https://www.wireflow.ai/docs",
+      "pricing": "https://www.wireflow.ai/pricing",
+      "claudeConnection": "Hosted MCP; see official connector setup",
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://www.wireflow.ai/docs"
+        }
+      ],
+      "capabilities": {
+        "videoTools": true,
+        "restApi": true,
+        "visualGraph": true,
+        "avatarVideo": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 2,
+      "name": "Creatify",
+      "tagline": null,
+      "homepage": "https://creatify.ai",
+      "docs": "https://docs.creatify.ai/introduction",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.creatify.ai/introduction"
+        }
+      ],
+      "capabilities": {
+        "videoTools": true,
+        "restApi": true,
+        "visualGraph": null,
+        "avatarVideo": true
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 3,
+      "name": "HeyGen",
+      "tagline": null,
+      "homepage": "https://www.heygen.com",
+      "docs": "https://developers.heygen.com/",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Orchestration of connected models and services",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://developers.heygen.com/"
+        }
+      ],
+      "capabilities": {
+        "videoTools": true,
+        "restApi": true,
+        "visualGraph": null,
+        "avatarVideo": true
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 4,
+      "name": "Arcads",
+      "tagline": null,
+      "homepage": "https://www.arcads.ai",
+      "docs": "https://www.arcads.ai",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": null,
+      "modelSupport": "Orchestration of connected models and services",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested. API access was not verified in this review. Blank API cells mean unknown, not unavailable.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://www.arcads.ai"
+        }
+      ],
+      "capabilities": {
+        "videoTools": true,
+        "restApi": null,
+        "visualGraph": true,
+        "avatarVideo": true
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 5,
+      "name": "Higgsfield",
+      "tagline": null,
+      "homepage": "https://higgsfield.ai",
+      "docs": "https://docs.higgsfield.ai/docs",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.higgsfield.ai/docs"
+        }
+      ],
+      "capabilities": {
+        "videoTools": true,
+        "restApi": true,
+        "visualGraph": null,
+        "avatarVideo": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 6,
+      "name": "ComfyUI",
+      "tagline": null,
+      "homepage": "https://www.comfy.org",
+      "docs": "https://docs.comfy.org",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": "Comfy-Org/ComfyUI",
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested. ComfyUI has both local and hosted routes. Downloadable software does not make GPU use, hosted services or every model licence free.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.comfy.org"
+        }
+      ],
+      "capabilities": {
+        "videoTools": true,
+        "restApi": true,
+        "visualGraph": true,
+        "avatarVideo": null
+      },
+      "live": {
+        "stars": 135526,
+        "lastPush": "2026-09-30T03:02:18Z",
+        "latestRelease": "v0.38.0",
+        "latestReleaseDate": "2026-09-29",
+        "checkedAt": "2026-09-30"
+      }
+    }
+  ]
+}
