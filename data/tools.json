@@ -1,7 +1,7 @@
 {
   "keyword": "ai video ad workflow",
   "title": "AI video ad workflow tools: generation, presenters and production",
-  "lastChecked": "2026-09-30",
+  "lastChecked": "2026-10-05",
   "capabilityChecks": [
     {
       "key": "videoTools",
@@ -218,11 +218,11 @@
         "avatarVideo": null
       },
       "live": {
-        "stars": 135526,
-        "lastPush": "2026-09-30T03:02:18Z",
+        "stars": 136157,
+        "lastPush": "2026-10-05T13:14:25Z",
         "latestRelease": "v0.38.0",
         "latestReleaseDate": "2026-09-29",
-        "checkedAt": "2026-09-30"
+        "checkedAt": "2026-10-05"
       }
     }
   ]
