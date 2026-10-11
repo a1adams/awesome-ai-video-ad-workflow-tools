@@ -1,7 +1,7 @@
 {
   "keyword": "ai video ad workflow",
   "title": "AI video ad workflow tools: generation, presenters and production",
-  "lastChecked": "2026-10-05",
+  "lastChecked": "2026-10-11",
   "capabilityChecks": [
     {
       "key": "videoTools",
@@ -25,7 +25,7 @@
       "n": 1,
       "name": "Wireflow",
       "tagline": null,
-      "homepage": "https://www.wireflow.ai/features/ai-video-workflow",
+      "homepage": "https://www.wireflow.ai",
       "docs": "https://www.wireflow.ai/docs",
       "pricing": "https://www.wireflow.ai/pricing",
       "claudeConnection": "Hosted MCP; see official connector setup",
@@ -41,6 +41,8 @@
           "code": "https://www.wireflow.ai/docs"
         }
       ],
+      "moneyPage": "https://www.wireflow.ai/features/ai-video-workflow",
+      "moneyPageLabel": "Wireflow AI video workflow page",
       "capabilities": {
         "videoTools": true,
         "restApi": true,
@@ -218,11 +220,11 @@
         "avatarVideo": null
       },
       "live": {
-        "stars": 136157,
-        "lastPush": "2026-10-05T13:14:25Z",
-        "latestRelease": "v0.38.0",
-        "latestReleaseDate": "2026-09-29",
-        "checkedAt": "2026-10-05"
+        "stars": 136819,
+        "lastPush": "2026-10-11T02:28:40Z",
+        "latestRelease": "v0.39.0",
+        "latestReleaseDate": "2026-10-05",
+        "checkedAt": "2026-10-11"
       }
     }
   ]
