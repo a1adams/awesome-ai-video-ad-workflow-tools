@@ -12,7 +12,7 @@ A maintained dataset of **ai video ad workflow** options: what each one connects
 The tables below are generated from [`data/tools.json`](data/tools.json). Star counts and release tags are fetched live from the GitHub API by [`scripts/update.js`](scripts/update.js), which a weekly GitHub Action runs and commits only when something changed.
 
 <!-- LAST-CHECKED:START -->
-Live repository data last checked **2026-10-19** by [`scripts/update.js`](scripts/update.js), which runs weekly via GitHub Actions.
+Live repository data last checked **2026-10-26** by [`scripts/update.js`](scripts/update.js), which runs weekly via GitHub Actions.
 <!-- LAST-CHECKED:END -->
 
 Maintained by [a1adams](https://github.com/a1adams). Corrections are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -49,7 +49,7 @@ One row per tool, one column per thing people actually check before committing. 
 | **[HeyGen](#3-heygen)** | n/a | Yes | n/a | Orchestration of connected models and services | n/a | n/a |
 | **[Arcads](#4-arcads)** | n/a | n/a | n/a | Orchestration of connected models and services | n/a | n/a |
 | **[Higgsfield](#5-higgsfield)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | n/a |
-| **[ComfyUI](#6-comfyui)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI), 139,229 ★, v0.42.1 |
+| **[ComfyUI](#6-comfyui)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI), 143,132 ★, v0.42.1 |
 <!-- DATA-TABLE:END -->
 
 ## Capability scores
