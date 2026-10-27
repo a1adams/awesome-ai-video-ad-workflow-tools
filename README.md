@@ -1,5 +1,6 @@
 # AI video ad workflow tools: generation, presenters and production
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 A maintained dataset of **ai video ad workflow** options: what each one connects to, where it stops, how to run it, and a link to the vendor's own pricing page rather than a price that will be wrong by the time you read it.
 
 1. **[Wireflow](https://www.wireflow.ai/features/ai-video-workflow)**
